@@ -27,3 +27,4 @@ group :production do
 end 
 
 gem 'bootstrap-sass'
+gem 'devise'
